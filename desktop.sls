@@ -9,4 +9,7 @@
                 - build-essential
                 - ubuntu-restricted-extras
                 - network-manager-openvpn
+                - traceroute
+                - nmap
+                - wireshark
 {% endif %}
