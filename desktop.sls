@@ -14,6 +14,7 @@
                 - nmap
                 - wireshark
                 - virtualbox
+                - pidgin
     packer:
         archive.extracted:
             - name: /usr/local/sbin/
