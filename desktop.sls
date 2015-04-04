@@ -13,6 +13,7 @@
                 - nmap
                 - virtualbox
                 - pidgin
+                - wget
             - refresh: []
     packer:
         archive.extracted:
