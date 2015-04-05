@@ -13,7 +13,7 @@ mypkgs:
             - virtualbox
             - pidgin
             - wget
-            - gstreamer1.0
+#            - gstreamer1.0*
             - systemtap
         - refresh: []
 packer:
