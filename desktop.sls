@@ -14,6 +14,7 @@ mypkgs:
             - pidgin
             - wget
             - gstreamer1.0
+            - systemtap
         - refresh: []
 packer:
     archive.extracted:
