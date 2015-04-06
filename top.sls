@@ -4,6 +4,7 @@ base:
         - desktop
         - spotify
         - chrome
+        - docker
 file_roots:
     base:
         - .
