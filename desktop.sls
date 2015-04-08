@@ -15,6 +15,7 @@ mypkgs:
             - wget
 #            - gstreamer1.0*
             - systemtap
+            - keepassx
         - refresh: []
 packer:
     archive.extracted:
