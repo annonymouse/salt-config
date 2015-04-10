@@ -5,6 +5,7 @@ base:
         - spotify
         - chrome
         - docker
+        - vagrant-latest
 file_roots:
     base:
         - .
