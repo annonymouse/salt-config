@@ -16,6 +16,7 @@ mypkgs:
 #            - gstreamer1.0*
             - systemtap
             - keepassx
+            - mosh
         - refresh: []
 packer:
     archive.extracted:
