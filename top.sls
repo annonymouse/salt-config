@@ -6,6 +6,9 @@ base:
         - chrome
         - docker
         - vagrant-latest
+    'os:MacOS':
+        - match: grain
+        - desktop
 file_roots:
     base:
         - .
